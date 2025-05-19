@@ -6,7 +6,6 @@
 🔧 **Tech Stack**  
 - 🖥️ Languages: C#, JavaScript, HTML, CSS  
 - ⚙️ Backend: ASP.NET MVC, Entity Framework  
-- 🌐 Frontend: React.js  
 - 🗃️ Databases: SQL Server  
 - 📦 Concepts: OOP, SOLID, APIs, Data Structures
 
